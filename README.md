@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamiAlmosaib
-- 👀 I’m interested in ...computer science 
+- 👀 I’m interested in ...Computer science especially Artificial intelligence
 - 🌱 I’m currently learning ...Computer and Statistics
 - 💞️ I’m looking to collaborate on ...my wedding day
 - 📫 How to reach me ...by  searching
