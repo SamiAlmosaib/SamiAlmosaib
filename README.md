@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamiAlmosaib
 - 👀 I’m interested in ...computer science 
-- 🌱 I’m currently learning ...computer and Statistics
+- 🌱 I’m currently learning ...Computer and Statistics
 - 💞️ I’m looking to collaborate on ...my wedding day
 - 📫 How to reach me ...by  searching
 <!---
